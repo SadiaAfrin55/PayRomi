@@ -1,4 +1,4 @@
-# fre_app
+# Payromi
 
 A new Flutter application.
 
